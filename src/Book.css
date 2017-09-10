@@ -1,0 +1,30 @@
+.book { 
+    margin: 25px;
+    border: 0px,0px,0px,1px solid black;
+}
+
+.book div {
+    text-align: left;
+}
+
+.bookTitle {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.bookAuthor {
+    font-weight: bold;
+}
+
+.bookFinished {
+    font-style: italic;
+    margin-left: 25px;
+}
+
+.bookRating {
+    font-style: italic;
+}
+
+.bookReview {
+    margin: 5px;
+}

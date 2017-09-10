@@ -1,0 +1,24 @@
+input { 
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+form {
+    margin-top: 25px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+form textarea {
+    resize: none;
+    margin-left: 5px;
+}
+
+Button {
+    margin: 10px;
+}
+
+.stars {
+    text-align: left;
+    margin-left: 15px;
+}
